@@ -1,16 +1,13 @@
-### Hi there 👋
+### Opa, eu sou o Pedro :)
 
-<!--
-**pedrorcks/pedrorcks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Estudante de Desenvolvimento de Sistemas
+- 📸 Entusiasta de UX/UI, inteligência artificial, arquitetura de software e arduíno 
+- ☕ Pronomes: Ele/Dele
+- 📊 Desenvolvendo meu TCC e tentando não surtar
+- 🐈 Atualmente desenvolvendo o MillWisp
 
-Here are some ideas to get you started:
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafardcs&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafardcs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" alt="pedropic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1033494157399949394/1074511834134093896/ezgif-4-b97fe45dff.gif?width=600&height=635">
