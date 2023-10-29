@@ -1,7 +1,7 @@
 ### Opa, eu sou o Pedro :)
 
 - 💻 Estudante de Desenvolvimento de Sistemas
-- 📸 Entusiasta de UX/UI, inteligência artificial, arquitetura de software e arduíno 
+- 📸 Entusiasta de UX/UI, embarcados, ia e engenharia de software
 - ☕ Pronomes: Ele/Dele
 - 📊 Desenvolvendo meu TCC e tentando não surtar
 - 🐈 Atualmente desenvolvendo o MillWisp
